@@ -8,13 +8,9 @@ Added Trending, Top Rated and Latest page.
 
 ### Features.
 
-+ Added Trending Page
-+ Added Top Rated Page
-+ Added Latest Page
-
-## Setup requirements.
-
-[ Outline any non-standard setup steps necessary to run your app locally after cloning the repo.]
++ Added Trending Page. This lists movies that are currently popular.
++ Added Top Rated Page. This lists movies by the highest rating.
++ Added Now Playing Page. This lists movies that are currently being shown in cinemas.
 
 ## API endpoints.
 
@@ -27,3 +23,8 @@ Added Trending, Top Rated and Latest page.
 + /trending - displays movies by popularity.
 + /toprated - displays movies by highest rating.
 + /nowplaying - displays movies currently showing in theatres.
+
+## Independent learning.
+
++ Changed the site header colour from 'Secondary' to 'Errror', making it red.
++ I also changed the color of the Filter Movies card to a custom shade of red.
